@@ -6,4 +6,3 @@ cliente consome o serviço SOAP do SOCTest - Server
   <li>Java</li>
   <li>SOAP</li>
 </ul>
->>>>>>> 6784696191ad510149f22d5f95c5f8aa77c62e50
