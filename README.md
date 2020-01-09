@@ -1,4 +1,4 @@
-# SOCTEST - Client
+# SOCTest - Client
 cliente consome o serviço SOAP do SOCTest - Server
 
 # Tecnologias
