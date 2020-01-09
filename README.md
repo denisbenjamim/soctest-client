@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# socteste-client
-cliente consome o serviço SOAP do SOCTEST-SERVER
-=======
 # SOCTest - Client
 cliente consome o serviço SOAP do SOCTest - Server
 
