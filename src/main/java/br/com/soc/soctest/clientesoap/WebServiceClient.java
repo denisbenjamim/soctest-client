@@ -110,6 +110,9 @@ public class WebServiceClient {
 				 case 2:
 					 init();
 					 break;
+				 case 9:
+					 System.exit(0);
+					 break;
 				default:
 					System.out.println("opção invalida");
 					break;
@@ -136,6 +139,9 @@ public class WebServiceClient {
 				 break;
 				 case 2:
 					 init();
+					 break;
+				 case 9:
+					 System.exit(0);
 					 break;
 				default:
 					System.out.println("opção invalida");
