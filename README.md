@@ -7,5 +7,4 @@ cliente consome o serviço SOAP do SOCTest - Server
   <li>SOAP</li>
 </ul>
 
-# SOCTest - Server
-<a href="https://github.com/denisbenjamim/soctest-server" target="_blank">SOCTest</a>
+# <a href="https://github.com/denisbenjamim/soctest-server" target="_blank">SOCTest - Server</a>
